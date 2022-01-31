@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Invitalia.Core.API\Invitalia.Core.API.csproj" />
+    <ProjectReference Include="..\Invitalia.Core\Invitalia.Core.csproj" />
+  </ItemGroup>
+
+</Project>
