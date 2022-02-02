@@ -14,7 +14,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Invitalia.Core.API\Invitalia.Core.API.csproj" />
-    <ProjectReference Include="..\Invitalia.IR\Invitalia.Infrastructures.csproj" />
+    <ProjectReference Include="..\Invitalia.Core\Invitalia.Core.csproj" />
+    <ProjectReference Include="..\Invitalia.Infrastructures\Invitalia.Infrastructures.csproj" />
   </ItemGroup>
 
 </Project>
